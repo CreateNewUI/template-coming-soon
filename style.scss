@@ -53,7 +53,7 @@ menu {
 
 body {
   background: var(--background);
-  color: var(--text-primary);
+  color: var(--content-primary);
   display: flex;
   flex-direction: column;
 
@@ -178,7 +178,7 @@ dl {
   }
 
   dd {
-    color: var(--text-secondary);
+    color: var(--content-secondary);
   }
 }
 
@@ -209,13 +209,13 @@ input {
   background-color: var(--background);
   border: 1px solid var(--border-muted);
   border-radius: var(--spacing-03);
-  color: var(--text-primary);
+  color: var(--content-primary);
   flex: 1;
   padding: var(--spacing-03) var(--spacing-05);
   width: calc(var(--spacing-17) * 3);
 
   &::placeholder {
-    color: var(--text-placeholder);
+    color: var(--content-placeholder);
   }
 
   &:hover {
@@ -233,7 +233,7 @@ input {
   align-items: center;
   background: var(--button);
   border-radius: var(--spacing-02);
-  color: var(--text-on-color);
+  color: var(--content-on-color);
   cursor: pointer;
   display: inline-flex;
   font-family: system-ui, sans-serif;
