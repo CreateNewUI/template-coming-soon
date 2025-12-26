@@ -10,4 +10,4 @@ A simple coming soon page for better pre-launch conversions.
 
 ### Guides
 - [Getting started guide](https://new-ui.com/docs/templates/coming-soon)
-- [Live preview](https://coming-soon-bem.pages.dev/)
+- [Live preview](https://template-coming-soon.pages.dev/)
